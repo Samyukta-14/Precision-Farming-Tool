@@ -1,4 +1,4 @@
-# 🌱 PrecisionFarm:Crop & Fertilizer Recommendation System 
+# 🌱 PrecisionFarm: Crop & Fertilizer Recommendation System 
 
 ## Project Overview
 PrecisionFarm is an intelligent agricultural decision support tool developed for a minor project at my university . The system provides data-driven recommendations for optimal crop selection and fertilizer application based on soil pH levels, climate conditions, and soil moisture content.
