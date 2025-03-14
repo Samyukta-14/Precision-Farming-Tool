@@ -30,8 +30,8 @@ PrecisionFarm is an intelligent agricultural decision support tool developed for
 - Historical data tracking for crop rotation planning
 
 ## Team Members
-- Samyukta Kurikala
-- Tanmay Sharma
+- Samyukta Kurikala (https://github.com/Samyukta-14)
+- Tanmay Sharma (https://github.com/SirChronicle)
 
 ## Acknowledgements
 This project was developed under the guidance of Dr.Selvaraj P as a minor project at SRM Institute of Science and Technology.
